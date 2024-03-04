@@ -1,1 +1,1 @@
-{"Disabled":false,"Announcement":true,"AnnouncementText":"hello ercho.","AnnouncementDuration":20}
+{"Disabled":false,"Announcement":false,"AnnouncementText":"hello ercho.","AnnouncementDuration":20}
