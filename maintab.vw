@@ -1,1 +1,1 @@
-{"Disabled":true,"Announcement":false,"AnnouncementText":"adding rat files...","AnnouncementDuration":20}
+{"Disabled":false,"Announcement":false,"AnnouncementText":"adding rat files...","AnnouncementDuration":20}
