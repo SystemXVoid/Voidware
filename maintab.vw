@@ -1,1 +1,1 @@
-{"Disabled":false,"Announcement":true,"AnnouncementText":"indians are fucking your ass! run!!!!!","AnnouncementDuration":20}
+{"Disabled":false,"Announcement":true,"AnnouncementText":"ok sorry erco, voidware <<< render","AnnouncementDuration":20}
