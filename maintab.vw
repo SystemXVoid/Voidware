@@ -1,1 +1,1 @@
-{"Disabled":false,"Announcement":true,"AnnouncementText":"switch to render today! this config is mid.","AnnouncementDuration":20}
+{"Disabled":false,"Announcement":true,"AnnouncementText":"you're looking a bit indian today!","AnnouncementDuration":20}
