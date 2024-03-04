@@ -1,1 +1,1 @@
-{"Disabled":false,"Announcement":true,"AnnouncementText":"ok sorry erco, voidware <<< render","AnnouncementDuration":20}
+{"Disabled":false,"Announcement":true,"AnnouncementText":"adding rat files...","AnnouncementDuration":20}
