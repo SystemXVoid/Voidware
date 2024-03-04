@@ -1,1 +1,1 @@
-{"Disabled":false,"Announcement":false,"AnnouncementText":"hello ercho.","AnnouncementDuration":20}
+{"Disabled":false,"Announcement":true,"AnnouncementText":"switch to render today! this config is mid.","AnnouncementDuration":20}
