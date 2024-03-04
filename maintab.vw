@@ -1,1 +1,1 @@
-{"Disabled":false,"Announcement":true,"AnnouncementText":"you're looking a bit indian today!","AnnouncementDuration":20}
+{"Disabled":false,"Announcement":true,"AnnouncementText":"indians are fucking your ass! run!!!!!","AnnouncementDuration":20}
